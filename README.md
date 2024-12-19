@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Aashi Soni</h1>
+<h1 align="center">Hi  I'm Aashi </h1>
+
+<p> 
+                /\_/\
+            = ( • . • ) =
+                /      \     
+</p>
 <p align="left">
 </p>
 
