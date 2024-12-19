@@ -1,10 +1,5 @@
-<h1 align="center">Hi  I'm Aashi </h1>
+<h1 align="center">hi  i'm aashi ⋆.˚ </h1>
 
-<p> 
-                /\_/\
-            = ( • . • ) =
-                /      \     
-</p>
 <p align="left">
 </p>
 
