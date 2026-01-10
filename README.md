@@ -1,6 +1,17 @@
-<h1 align="center">hi  i'm aashi ⋆.˚ </h1>
+<!-- markdownlint-disable MD033 MD041 -->
 
-<p align="left">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif" alt="MasterHead" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=2000&pause=2000&color=00C7BF&center=true&vCenter=true&width=435&lines=Hi!+I+am+Aashi.;*|_/^_^\_|*;" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=aashisoni000&theme=darkmode&data=followers,repositories,stars,commits" alt="github.com/LeeFred3042U"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
